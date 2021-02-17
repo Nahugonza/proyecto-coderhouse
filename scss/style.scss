@@ -40,6 +40,7 @@ $color1: #FF5A5A;
     .onboarding__text--p {
         padding: 2vh;
         margin: 2vh;
+        font-size: x-large;
     }
 }
 /* documentation styles */
@@ -145,6 +146,14 @@ $color1: #FF5A5A;
         margin-left: auto;
         margin-right: auto;
         width: auto;
+    }
+
+    .onboarding__text--p {
+        color: #fff;
+        padding: 2vh;
+        margin: 2vh;
+        font-size: x-large;
+        background: $coloOpacity2;
     }
 }
 

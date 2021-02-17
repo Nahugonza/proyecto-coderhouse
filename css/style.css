@@ -32,7 +32,8 @@
     margin: 2vh; }
   .onboarding .onboarding__text--p {
     padding: 2vh;
-    margin: 2vh; }
+    margin: 2vh;
+    font-size: x-large; }
 
 /* documentation styles */
 .documentationContainer {
@@ -117,7 +118,13 @@
   .box__content--carousel {
     margin-left: auto;
     margin-right: auto;
-    width: auto; } }
+    width: auto; }
+  .onboarding__text--p {
+    color: #fff;
+    padding: 2vh;
+    margin: 2vh;
+    font-size: x-large;
+    background: #00000080; } }
 
 @media (max-width: 500px) {
   .carousel-item img {
